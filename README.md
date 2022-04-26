@@ -1,0 +1,1 @@
+# bettercap_caplets_hstshijack_update
