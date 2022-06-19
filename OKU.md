@@ -1,4 +1,4 @@
-# Bettercap (Cyber Security)
+# Cyber Security - Bettercap
 
 • Kali Linux içerisindeki Bettercap tool'unun "hstshijack" caplet'i kullanılarak "https" siteler "http" yapılabilir.
 
